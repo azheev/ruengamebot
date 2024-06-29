@@ -1,0 +1,601 @@
+{
+    "быть": {
+        "be": ["exist", "occur", "happen"]
+    },
+    "иметь": {
+        "have": ["possess", "own", "hold"]
+    },
+    "делать": {
+        "do": ["perform", "execute", "accomplish"],
+        "make": ["create", "produce", "construct"]
+    },
+    "говорить": {
+        "say": ["state", "utter", "express"],
+        "tell": ["inform", "narrate", "relate"]
+    },
+    "идти": {
+        "go": ["move", "travel", "proceed"]
+    },
+    "получать": {
+        "get": ["obtain", "acquire", "receive"]
+    },
+    "знать": {
+        "know": ["understand", "recognize", "comprehend"]
+    },
+    "думать": {
+        "think": ["believe", "consider", "reflect"]
+    },
+    "видеть": {
+        "see": ["observe", "perceive", "notice"]
+    },
+    "приходить": {
+        "come": ["arrive", "approach", "reach"]
+    },
+    "хотеть": {
+        "want": ["desire", "wish", "crave"]
+    },
+    "смотреть": {
+        "look": ["view", "examine", "observe"]
+    },
+    "использовать": {
+        "use": ["employ", "utilize", "apply"]
+    },
+    "находить": {
+        "find": ["discover", "locate", "uncover"]
+    },
+    "давать": {
+        "give": ["provide", "offer", "grant"]
+    },
+    "рассказывать": {
+        "tell": ["narrate", "recount", "describe"]
+    },
+    "работать": {
+        "work": ["labor", "toil", "function"]
+    },
+    "звонить": {
+        "call": ["phone", "ring", "contact"]
+    },
+    "пытаться": {
+        "try": ["attempt", "endeavor", "strive"]
+    },
+    "спрашивать": {
+        "ask": ["inquire", "question", "query"]
+    },
+    "нуждаться": {
+        "need": ["require", "demand", "necessitate"]
+    },
+    "чувствовать": {
+        "feel": ["sense", "experience", "perceive"]
+    },
+    "становиться": {
+        "become": ["transform", "turn into", "develop into"]
+    },
+    "оставлять": {
+        "leave": ["depart", "exit", "abandon"]
+    },
+    "класть": {
+        "put": ["place", "set", "position"]
+    },
+    "означать": {
+        "mean": ["signify", "indicate", "imply"]
+    },
+    "держать": {
+        "keep": ["retain", "maintain", "preserve"]
+    },
+    "позволять": {
+        "let": ["allow", "permit", "enable"]
+    },
+    "начинать": {
+        "begin": ["start", "commence", "initiate"]
+    },
+    "казаться": {
+        "seem": ["appear", "look like", "give the impression"]
+    },
+    "помогать": {
+        "help": ["assist", "aid", "support"]
+    },
+    "показывать": {
+        "show": ["display", "exhibit", "demonstrate"]
+    },
+    "слышать": {
+        "hear": ["listen", "perceive sound", "be told"]
+    },
+    "играть": {
+        "play": ["perform", "engage in", "participate"]
+    },
+    "бежать": {
+        "run": ["sprint", "dash", "jog"]
+    },
+    "двигать": {
+        "move": ["shift", "relocate", "transfer"]
+    },
+    "жить": {
+        "live": ["exist", "reside", "dwell"]
+    },
+    "верить": {
+        "believe": ["trust", "accept", "have faith in"]
+    },
+    "приносить": {
+        "bring": ["carry", "transport", "deliver"]
+    },
+    "случаться": {
+        "happen": ["occur", "take place", "come about"]
+    },
+    "писать": {
+        "write": ["compose", "author", "record"]
+    },
+    "сидеть": {
+        "sit": ["be seated", "perch", "rest"]
+    },
+    "стоять": {
+        "stand": ["be upright", "rise", "get up"]
+    },
+    "терять": {
+        "lose": ["misplace", "be deprived of", "fail to keep"]
+    },
+    "платить": {
+        "pay": ["compensate", "settle", "remunerate"]
+    },
+    "встречать": {
+        "meet": ["encounter", "come across", "assemble"]
+    },
+    "включать": {
+        "include": ["comprise", "contain", "involve"]
+    },
+    "продолжать": {
+        "continue": ["proceed", "persist", "carry on"]
+    },
+    "устанавливать": {
+        "set": ["place", "put", "arrange"]
+    },
+    "учиться": {
+        "learn": ["study", "acquire knowledge", "grasp"]
+    },
+    "менять": {
+        "change": ["alter", "modify", "transform"]
+    },
+    "вести": {
+        "lead": ["guide", "direct", "conduct"]
+    },
+    "понимать": {
+        "understand": ["comprehend", "grasp", "fathom"]
+    },
+    "наблюдать": {
+        "watch": ["observe", "view", "monitor"]
+    },
+    "следовать": {
+        "follow": ["pursue", "trail", "succeed"]
+    },
+    "останавливать": {
+        "stop": ["halt", "cease", "discontinue"]
+    },
+    "создавать": {
+        "create": ["make", "produce", "generate"]
+    },
+    "говорить": {
+        "speak": ["talk", "converse", "articulate"]
+    },
+    "читать": {
+        "read": ["peruse", "scan", "study"]
+    },
+    "тратить": {
+        "spend": ["use up", "expend", "consume"]
+    },
+    "расти": {
+        "grow": ["develop", "increase", "expand"]
+    },
+    "открывать": {
+        "open": ["unlock", "unfasten", "reveal"]
+    },
+    "ходить": {
+        "walk": ["stroll", "stride", "ambulate"]
+    },
+    "выигрывать": {
+        "win": ["triumph", "succeed", "be victorious"]
+    },
+    "предлагать": {
+        "offer": ["propose", "suggest", "present"]
+    },
+    "помнить": {
+        "remember": ["recall", "recollect", "reminisce"]
+    },
+    "любить": {
+        "love": ["adore", "cherish", "be fond of"]
+    },
+    "рассматривать": {
+        "consider": ["contemplate", "think about", "reflect on"]
+    },
+    "появляться": {
+        "appear": ["emerge", "come into view", "materialize"]
+    },
+    "покупать": {
+        "buy": ["purchase", "acquire", "obtain"]
+    },
+    "служить": {
+        "serve": ["assist", "help", "benefit"]
+    },
+    "умирать": {
+        "die": ["pass away", "perish", "expire"]
+    },
+    "посылать": {
+        "send": ["dispatch", "transmit", "forward"]
+    },
+    "ожидать": {
+        "expect": ["anticipate", "await", "foresee"]
+    },
+    "строить": {
+        "build": ["construct", "erect", "assemble"]
+    },
+    "оставаться": {
+        "stay": ["remain", "linger", "continue"]
+    },
+    "падать": {
+        "fall": ["drop", "descend", "plummet"]
+    },
+    "резать": {
+        "cut": ["slice", "sever", "chop"]
+    },
+    "достигать": {
+        "reach": ["attain", "arrive at", "get to"]
+    },
+    "убивать": {
+        "kill": ["slay", "murder", "execute"]
+    },
+    "поднимать": {
+        "raise": ["lift", "elevate", "hoist"]
+    },
+    "проходить": {
+        "pass": ["go by", "elapse", "move past"]
+    },
+    "продавать": {
+        "sell": ["vend", "trade", "market"]
+    },
+    "решать": {
+        "decide": ["determine", "resolve", "settle on"]
+    },
+    "возвращаться": {
+        "return": ["come back", "revert", "recur"]
+    },
+    "объяснять": {
+        "explain": ["clarify", "elucidate", "expound"]
+    },
+    "надеяться": {
+        "hope": ["wish", "expect", "look forward to"]
+    },
+    "развивать": {
+        "develop": ["evolve", "progress", "advance"]
+    },
+    "носить": {
+        "carry": ["transport", "bear", "convey"]
+    },
+    "ломать": {
+        "break": ["fracture", "shatter", "smash"]
+    },
+    "получать": {
+        "receive": ["accept", "get", "obtain"]
+    },
+    "согласовывать": {
+        "agree": ["concur", "consent", "approve"]
+    },
+    "поддерживать": {
+        "support": ["uphold", "back", "advocate"]
+    },
+    "бить": {
+        "hit": ["strike", "knock", "smack"]
+    },
+    "производить": {
+        "produce": ["create", "generate", "manufacture"]
+    },
+    "есть": {
+        "eat": ["consume", "devour", "ingest"]
+    },
+    "укрывать": {
+        "cover": ["conceal", "hide", "shield"]
+    },
+    "ловить": {
+        "catch": ["capture", "seize", "grasp"]
+    },
+    "тянуть": {
+        "draw": ["pull", "drag", "attract"]
+    },
+    "выбирать": {
+        "choose": ["select", "pick", "opt for"]
+    },
+    "время": {
+        "time": ["period", "duration", "era"]
+    },
+    "путь": {
+        "way": ["route", "path", "method"]
+    },
+    "год": {
+        "year": ["annum", "twelvemonth", "season"]
+    },
+    "работа": {
+        "work": ["job", "occupation", "employment"]
+    },
+    "правительство": {
+        "government": ["administration", "regime", "authority"]
+    },
+    "день": {
+        "day": ["daytime", "daylight", "date"]
+    },
+    "человек": {
+        "man": ["person", "individual", "human"]
+    },
+    "женщина": {
+        "woman": ["lady", "female", "girl"]
+    },
+    "ребенок": {
+        "child": ["kid", "youngster", "minor"]
+    },
+    "мир": {
+        "world": ["earth", "globe", "planet"]
+    },
+    "школа": {
+        "school": ["academy", "institution", "college"]
+    },
+    "государство": {
+        "state": ["nation", "country", "commonwealth"]
+    },
+    "семья": {
+        "family": ["relatives", "kin", "clan"]
+    },
+    "студент": {
+        "student": ["pupil", "learner", "scholar"]
+    },
+    "группа": {
+        "group": ["cluster", "bunch", "collection"]
+    },
+    "страна": {
+        "country": ["nation", "land", "territory"]
+    },
+    "проблема": {
+        "problem": ["issue", "difficulty", "dilemma"]
+    },
+    "рука": {
+        "hand": ["palm", "fist", "grip"]
+    },
+    "часть": {
+        "part": ["portion", "section", "segment"]
+    },
+    "место": {
+        "place": ["location", "spot", "site"]
+    },
+    "случай": {
+        "case": ["instance", "occurrence", "situation"]
+    },
+    "неделя": {
+        "week": ["sennight", "seven days", "workweek"]
+    },
+    "компания": {
+        "company": ["firm", "corporation", "enterprise"]
+    },
+    "система": {
+        "system": ["structure", "organization", "arrangement"]
+    },
+    "программа": {
+        "program": ["scheme", "plan", "project"]
+    },
+    "вопрос": {
+        "question": ["query", "inquiry", "interrogation"]
+    },
+    "работа": {
+        "job": ["occupation", "position", "post"]
+    },
+    "ночь": {
+        "night": ["evening", "nighttime", "darkness"]
+    },
+    "глаз": {
+        "eye": ["optic", "peeper", "oculus"]
+    },
+    "область": {
+        "area": ["region", "zone", "territory"]
+    },
+    "жизнь": {
+        "life": ["existence", "being", "lifetime"]
+    },
+    "история": {
+        "history": ["past", "chronicle", "record"]
+    },
+    "власть": {
+        "power": ["authority", "control", "influence"]
+    },
+    "деньги": {
+        "money": ["cash", "currency", "funds"]
+    },
+    "изменение": {
+        "change": ["alteration", "modification", "variation"]
+    },
+    "исследование": {
+        "research": ["study", "investigation", "analysis"]
+    },
+    "девушка": {
+        "girl": ["lass", "maiden", "young woman"]
+    },
+    "парень": {
+        "guy": ["fellow", "chap", "dude"]
+    },
+    "момент": {
+        "moment": ["instant", "second", "minute"]
+    },
+    "воздух": {
+        "air": ["atmosphere", "breeze", "wind"]
+    },
+    "учитель": {
+        "teacher": ["instructor", "educator", "tutor"]
+    },
+    "сила": {
+        "force": ["strength", "power", "energy"]
+    },
+    "образование": {
+        "education": ["learning", "schooling", "training"]
+    },
+    "сеть": {
+        "network": ["grid", "system", "web"]
+    },
+    "наука": {
+        "science": ["discipline", "field", "study"]
+    },
+    "память": {
+        "memory": ["recollection", "remembrance", "recall"]
+    },
+    "команда": {
+        "team": ["squad", "crew", "group"]
+    },
+    "дерево": {
+        "tree": ["timber", "wood", "sapling"]
+    },
+    "природа": {
+        "nature": ["environment", "wilderness", "ecosystem"]
+    },
+    "продукт": {
+        "product": ["item", "goods", "merchandise"]
+    },
+    "здание": {
+        "building": ["structure", "edifice", "construction"]
+    },
+    "отец": {
+        "father": ["dad", "parent", "patriarch"]
+    },
+    "машина": {
+        "car": ["automobile", "vehicle", "motor"]
+    },
+    "материал": {
+        "material": ["substance", "matter", "stuff"]
+    },
+    "пример": {
+        "example": ["instance", "sample", "illustration"]
+    },
+    "цель": {
+        "goal": ["aim", "objective", "target"]
+    },
+    "центр": {
+        "center": ["middle", "core", "hub"]
+    },
+    "возможность": {
+        "opportunity": ["chance", "prospect", "opening"]
+    },
+    "период": {
+        "period": ["era", "epoch", "age"]
+    },
+    "общество": {
+        "society": ["community", "public", "populace"]
+    },
+    "процесс": {
+        "process": ["procedure", "method", "operation"]
+    },
+    "мать": {
+        "mother": ["mom", "parent", "matriarch"]
+    },
+    "голос": {
+        "voice": ["speech", "utterance", "tone"]
+    },
+    "месяц": {
+        "month": ["moonth", "30 days", "four weeks"]
+    },
+    "музыка": {
+        "music": ["melody", "harmony", "tune"]
+    },
+    "стоимость": {
+        "cost": ["price", "expense", "charge"]
+    },
+    "поле": {
+        "field": ["meadow", "pasture", "plain"]
+    },
+    "решение": {
+        "decision": ["choice", "judgment", "conclusion"]
+    },
+    "здоровье": {
+        "health": ["wellness", "fitness", "well-being"]
+    },
+    "статья": {
+        "article": ["piece", "essay", "report"]
+    },
+    "искусство": {
+        "art": ["craft", "skill", "creativity"]
+    },
+    "рынок": {
+        "market": ["marketplace", "bazaar", "emporium"]
+    },
+    "температура": {
+        "temperature": ["heat", "warmth", "coldness"]
+    },
+    "форма": {
+        "form": ["shape", "figure", "structure"]
+    },
+    "любовь": {
+        "love": ["affection", "fondness", "passion"]
+    },
+    "перспектива": {
+        "perspective": ["viewpoint", "outlook", "angle"]
+    },
+    "строительство": {
+        "construction": ["building", "erection", "assembly"]
+    },
+    "линия": {
+        "line": ["row", "queue", "sequence"]
+    },
+    "действие": {
+        "action": ["deed", "act", "move"]
+    },
+    "фильм": {
+        "movie": ["film", "motion picture", "cinema"]
+    },
+    "солнце": {
+        "sun": ["star", "sol", "daystar"]
+    },
+    "надежда": {
+        "hope": ["expectation", "aspiration", "optimism"]
+    },
+    "дорога": {
+        "road": ["street", "highway", "path"]
+    },
+    "камень": {
+        "stone": ["rock", "pebble", "boulder"]
+    },
+    "план": {
+        "plan": ["scheme", "strategy", "blueprint"]
+    },
+    "качество": {
+        "quality": ["attribute", "characteristic", "trait"]
+    },
+    "долг": {
+        "duty": ["obligation", "responsibility", "commitment"]
+    },
+    "председатель": {
+        "chairman": ["chairperson", "president", "leader"]
+    },
+    "производство": {
+        "production": ["manufacturing", "output", "creation"]
+    },
+    "река": {
+        "river": ["stream", "waterway", "tributary"]
+    },
+    "закон": {
+        "law": ["statute", "regulation", "rule"]
+    },
+    "помощь": {
+        "help": ["assistance", "aid", "support"]
+    },
+    "старик": {
+        "old man": ["elder", "senior", "grandfather"]
+    },
+    "пол": {
+        "gender": ["sex", "genus", "kind"]
+    },
+    "рот": {
+        "mouth": ["oral cavity", "maw", "orifice"]
+    },
+    "радость": {
+        "joy": ["happiness", "delight", "pleasure"]
+    },
+    "кровь": {
+        "blood": ["gore", "plasma", "bodily fluid"]
+    },
+    "культура": {
+        "culture": ["civilization", "society", "customs"]
+    },
+    "начало": {
+        "beginning": ["start", "commencement", "origin"]
+    }
+}
